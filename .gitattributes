@@ -1,0 +1,7 @@
+# Git attributes for Gardner Capacity project
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
