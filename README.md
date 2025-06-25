@@ -200,7 +200,6 @@ MIT License - feel free to use this for research and educational purposes!
 
 <div align="center">
 
-**🤖 Generated with [Claude Code](https://claude.ai/code)**
 
 *Exploring the beautiful intersection of statistical physics and machine learning*
 
